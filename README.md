@@ -1,3 +1,6 @@
+![Screenshot_1696087935](https://github.com/Jamz47/Calculator-React-Native/assets/73031839/7a5941cf-6e57-46c8-ac9b-8e0b0388a002)
+![Screenshot_1696087917](https://github.com/Jamz47/Calculator-React-Native/assets/73031839/92803d19-ba44-409e-a524-cea5c6365cd4)
+![Screenshot_1696087909](https://github.com/Jamz47/Calculator-React-Native/assets/73031839/64161ba6-994c-4c04-8889-585b9eff0ee7)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -50,7 +53,7 @@ This is one way to run your app — you can also run it directly from within And
 
 Now that you have successfully run the app, let's modify it.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
+1. Open `App.js` in your text editor of choice and edit some lines.
 2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
